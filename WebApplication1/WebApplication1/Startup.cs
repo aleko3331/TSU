@@ -18,6 +18,7 @@ namespace WebApplication1
         {
             Configuration = configuration;
             //test
+            //test 2
         }
 
         public IConfiguration Configuration { get; }
